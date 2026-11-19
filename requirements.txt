@@ -1,0 +1,1 @@
+anthropic>=0.40   # only needed for --live runs; mock mode has zero dependencies
