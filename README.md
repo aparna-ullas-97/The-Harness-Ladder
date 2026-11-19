@@ -39,7 +39,7 @@ A model alone is like a "brain in a jar". It can reason but can't act on real da
 ## Quick start
 
 ```bash
-git clone https://github.com/aparna-ullas-97/The-Harness-Ladder/
+git clone https://github.com/aparna-ullas-97/The-Harness-Ladder.git
 cd The-Harness-Ladder
 
 python compare.py                                    # for the whole ladder, offline, no API key, ~2 s
